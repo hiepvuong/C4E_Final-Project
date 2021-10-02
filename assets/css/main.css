@@ -627,7 +627,7 @@
 .header__logo-img{
 	width: 150px;
 	color: var(--white-color);
-	margin-top: 8px;
+	margin-top: -10px;
 }
 
 .header__search{
@@ -1653,3 +1653,32 @@ i.home-product-item-icon-like-fill{
 	text-decoration: none;
 	color: white;
 }
+
+
+
+.css-ngang{
+	display: flex;
+	justify-content: center;
+	
+}
+
+
+.footer{
+	margin-top: 30px;
+}
+
+
+#main{
+	margin-bottom: 30px;
+}
+
+#main >a{
+	color: black;
+}
+
+
+*{
+	font-family: ;
+}
+
+

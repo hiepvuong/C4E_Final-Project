@@ -12895,3 +12895,12 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 	text-decoration: none;
 	color: white;
 }
+
+
+#zoom1 {
+  width: 400px;
+}
+
+.header__logo-link{
+  margin-top: -20px;
+}
